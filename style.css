@@ -1,18 +1,19 @@
 body {
+  background-image: url('https://i.pinimg.com/736x/ae/63/dc/ae63dc20cd0723cb97b26f3e8886a9e2.jpg');
   background-color: #e85526;
   font-family: 'Yatra One', cursive;
 }
 
 section {
-  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  -webkit-box-shadow: 5px 5px 44px 8px rgba(127,164,243,0.87); 
+box-shadow: 5px 5px 44px 8px rgba(127,164,243,0.87);
   /*Forma de centralizar com margin left e right e o display*/
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: 500px;
   margin-top: 100px;
-  background-color: white;
+  background-color: #ffe7e7;
   padding: 15px;
   border: 1px solid black;
   border-radius: 5px;
@@ -34,7 +35,7 @@ div {
   padding: 15px;
   border : 1px solid black;
   /* propriedade visual: valor */
-  background-color: #bac3d6;
+  background-color: #7fa4f3;
   border-radius: 5px;
 }
 
@@ -46,5 +47,5 @@ img {
   margin-right: auto;
   display: block;
   transform: translateY(-50%);
-  border: 6px solid #deaf9f;
+  border: 6px solid #7FA4F3;
 }
